@@ -1,3 +1,4 @@
 // Code your solution in this file!
 
-costr companyName = "Scuber"; 
+const companyName = "Scuber"; 
+
